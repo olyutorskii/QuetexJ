@@ -22,8 +22,8 @@
  * </ul>
  *
  * @see <a href="https://github.com/olyutorskii/QuetexJ">
- * https://github.com/olyutorskii/QuetexJ
- * </a>
+ *     https://github.com/olyutorskii/QuetexJ
+ *     </a>
  */
 
 package io.github.olyutorskii.quetexj;
