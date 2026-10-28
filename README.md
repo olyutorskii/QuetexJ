@@ -30,7 +30,7 @@
 
 ## How to build ##
 
-* QuetexJ needs to use [Maven 3.3.9+](https://maven.apache.org/)
+* QuetexJ needs to use [Maven 3.8.9+](https://maven.apache.org/)
  and JDK 1.8+ to be built.
 
 * QuetexJ runtime does not depend on any other library at all.
